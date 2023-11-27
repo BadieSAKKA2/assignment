@@ -1,0 +1,33 @@
+.item {
+    width: 100%;
+    height: 10%;
+    margin: 10px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+  
+.item-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+  
+.item-price {
+    color: #a75528;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.item-amount{
+    font-weight: bold;
+}
+
+button {
+    background-color: #8A2B06 ;
+    color: white;
+    font-size: 14px;
+    padding: 5px 40px;
+    border-radius: 10px;
+}

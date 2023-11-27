@@ -1,0 +1,12 @@
+.intro{
+    position:absolute;
+    top:20%;
+    left:25%;
+    right:25%;
+    bottom:45%;  
+    background-color: #383838 ;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+

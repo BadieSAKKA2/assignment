@@ -1,0 +1,12 @@
+.items-list{
+    position:absolute;
+    top:60%;
+    left:25%;
+    right:25%;
+    bottom:auto;  
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
